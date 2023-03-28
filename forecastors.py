@@ -53,7 +53,7 @@ class Forecastor:
             return data_vect.reshape(
                 (data_vect.shape[0], data_vect.shape[1], n_features)
             )
-        kernel_len = data_vect.shape[1] ** (1 / 2)
+        kernel_len = np.sqrt(data_vect.shape[1])
         return data_vect.reshape(
             (data_vect.shape[0], kernel_len, kernel_len, n_features)
         )
