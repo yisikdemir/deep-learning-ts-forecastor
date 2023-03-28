@@ -21,3 +21,7 @@ The script provides support for the visualization of the results and performance
 ### Requirements.txt
 
 The present text file contains a list of the dependencies required for the utilization of the provided codebase.
+
+### Use Cases
+
+The utilization, alteration, and dissemination of the code contained within this repository are permitted, provided that appropriate attribution is given to the repository as the original source.
