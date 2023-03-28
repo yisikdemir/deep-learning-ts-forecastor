@@ -1,3 +1,15 @@
+#--------------------------------------------------------------------------
+# Author: Yunus Emre Işıkdemir
+# 
+# Create Date: 03/28/2023
+# Module Name: Data Processor
+# Project Name: Deep Learning Time Series Forecastor
+# Description: The script facilitates the reading and preprocessing data.
+# 
+# Dependencies: Can be found in requirements.txt
+# 
+#--------------------------------------------------------------------------
+
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from scipy.interpolate import interp1d
 import pandas as pd
