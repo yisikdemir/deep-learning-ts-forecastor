@@ -1,3 +1,16 @@
+#--------------------------------------------------------------------------
+# Author: Yunus Emre Işıkdemir
+# 
+# Create Date: 03/28/2023
+# Module Name: Forecastors
+# Project Name: Deep Learning Time Series Forecastor
+# Description: The script at hand incorporates a contemporary deep learning-based 
+#              algorithm for time series forecasting.
+# 
+# Dependencies: Can be found in requirements.txt
+# 
+#--------------------------------------------------------------------------
+
 import pandas as pd
 import numpy as np
 import keras
