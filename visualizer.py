@@ -1,3 +1,16 @@
+
+#--------------------------------------------------------------------------
+# Author: Yunus Emre Işıkdemir
+# 
+# Create Date: 03/28/2023
+# Module Name: Result Visualizer
+# Project Name: Deep Learning Time Series Forecastor
+# Description: The script facilitates the visualizing data.
+# 
+# Dependencies: Can be found in requirements.txt
+# 
+#--------------------------------------------------------------------------
+
 import matplotlib.pyplot as plt
 import numpy as np
 
